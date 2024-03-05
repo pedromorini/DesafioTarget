@@ -1,1 +1,3 @@
-
+ligar um interruptor, esperar alguns minutos e desligar
+ligar outro interruptor e ir até a sala
+A lampada apagada que estiver quente é a do primeiro interruptor, a acesa é a do segundo, e a última é a do terceiro
